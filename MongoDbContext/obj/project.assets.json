@@ -603,13 +603,13 @@
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "restore": {
-      "projectUniqueName": "C:\\Users\\soumi\\OneDrive\\Desktop\\Nuget Project\\MongoDbContext\\MongoDbContext\\MongoDbContext.csproj",
+      "projectUniqueName": "C:\\Workstation\\MongoDbContext\\MongoDbContext\\MongoDbContext.csproj",
       "projectName": "MongoDbRepository",
-      "projectPath": "C:\\Users\\soumi\\OneDrive\\Desktop\\Nuget Project\\MongoDbContext\\MongoDbContext\\MongoDbContext.csproj",
+      "projectPath": "C:\\Workstation\\MongoDbContext\\MongoDbContext\\MongoDbContext.csproj",
       "packagesPath": "C:\\Users\\soumi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\soumi\\OneDrive\\Desktop\\Nuget Project\\MongoDbContext\\MongoDbContext\\obj\\",
+      "outputPath": "C:\\Workstation\\MongoDbContext\\MongoDbContext\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -642,7 +642,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -669,7 +669,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

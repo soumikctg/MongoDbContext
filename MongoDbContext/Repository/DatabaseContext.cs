@@ -85,7 +85,7 @@ namespace MongoDbContext.Repository
         {
             try
             {
-                var filter = Builders<T>.Filter.Eq("_id", new ObjectId());
+                var filter = Builders<T>.Filter.Eq("_id", new ObjectId(id));
                 var collection = GetCollection<T>(databaseName);
                 return await collection.Find(filter).FirstOrDefaultAsync();
             }
